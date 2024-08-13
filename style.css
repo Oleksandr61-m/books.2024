@@ -1,0 +1,19 @@
+nav{
+ margin: 20px 0px;
+   padding:20px 0px;
+   background-color:blue;
+   text-align: center;
+}
+nav a{
+text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+    font-size:20px;
+}
+h2{
+font-size:20px;
+}
+footer p{
+text-decoration: underline;
+color:blue;
+}
